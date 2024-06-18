@@ -1,7 +1,11 @@
-- title: Adobe Photoshop
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               a
+- name: Albanian
+  percentage: 98
+  color: red
 
-- title: Adobe Illustrator
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               a
+- name: German
+  percentage: 90
+  color: yellow  
+
+- name: Microsoft Suite/Office Products
+  percentage: 95
+  color: info
