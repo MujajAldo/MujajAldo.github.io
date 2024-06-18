@@ -1,6 +1,6 @@
 ---
 name: "EGR 100: Loop-de-Loop - Mini Golf Course Obstacle"
-tools: [EGR 100, MIT App Inventor]
+tools: [EGR 100, Mini Golf Course]
 image: _projects/SurveyBanner.png
 description: "In order to follow the objective to design and construct a mini-golf course obstacle, a "loop-de-loop" was designed in order to follow the criteria that was laid out in the project, including the placement of a strip of LED lights. This was followed by the calculations relating to the resistance in an LED circuit and the presentation of the project's final reportings."
 ---
