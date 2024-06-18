@@ -1,7 +1,7 @@
 - name: Adobe Photoshop
-  percentage: 95
-  color: info
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               a
 
 - name: Adobe Illustrator
-  percentage: 90
-  color: success
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               a
