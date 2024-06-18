@@ -1,10 +1,10 @@
 - name: Albanian
   percentage: 98
-  color: red
+  color: ff0000
 
 - name: German
   percentage: 90
-  color: yellow  
+  color: d4af37 
 
 - name: Microsoft Suite/Office Products
   percentage: 95
