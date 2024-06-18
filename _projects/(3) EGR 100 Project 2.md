@@ -1,11 +1,11 @@
 ---
-name: "EGR 100: MiFitz - MIT App Inventor"
+name: "EGR 100: Loop-de-Loop - Mini Golf Course Obstacle"
 tools: [EGR 100, MIT App Inventor]
 image: _projects/SurveyBanner.png
-description: "Developed through MIT App Inventor, MiFitz consists of various interfaces which help users to successfully select and save new outfits in a fashion similar to a catalog. The app provides various options for user input so that the user can customize their in-app closets as they deem fit."
+description: "In order to follow the objective to design and construct a mini-golf course obstacle, a "loop-de-loop" was designed in order to follow the criteria that was laid out in the project, including the placement of a strip of LED lights. This was followed by the calculations relating to the resistance in an LED circuit and the presentation of the project's final reportings."
 ---
 
-# EGR 100: MiFitz - MIT App Inventor
+# EGR 100: Loop-de-Loop - Mini Golf Course Obstacle
 
 The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
 
