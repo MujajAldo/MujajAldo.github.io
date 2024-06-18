@@ -4,17 +4,3 @@ tools: [EGR 100, Mini Golf Course]
 image: https://lh3.googleusercontent.com/pw/AP1GczP597Z3ZaAxGq15Nwi9DQv1nbnaXscPP0ycJSX1wopuTP8_Tj-PhLA1Qj3KSikn054pB7nF7RJtYQ_SKdcdZPGZIN-1CDv_erI9UaWZj4CfH3PWzx9I6KaumzZXD_6StasC_aXZIL9b6khP1q_hOzzfJKbQERD9ILEk8hrid-7PN8u5gNX2xiyuvdlSScw99qx6e1Wj-OkTOvLQgtIjVppAPO9SF8MXCThQRI9cBtcjRTOdlJsVv9GzRJeheIdgjD3M62NeCqHKMJ4OVUwt9em2tBxEKxUFkhtHWUtwBD0767ZciwsmMIBY9ZsvMDVgliqdky6BbopqZIFwGpB7fdIzA-PU9jyZsgX88Z_FOqVixlxjD9HhUc2IRALLV-VzTu1uKTn0lBHcGEjGkN14CjaUqbBc2uMJRnZS1Q-c0SfbKyUl1diezllJDXgkLWa3ITJ9UqoLkPRvtmBuv8nLUuGLLlO5NGDum8Vgn1JPirXbu4pfAVTxfUAEdzfv7tglgffcn6uMXXF0D9no_Erao559DqHoJXR125B19JII_F3fVJ2SzbaCEeqnIPxTzCOZo7PTZA2c5H0Fran0bG7oao0_oWQlEocjPcWuOsBC2B80Gn4WtqyDG0dp-hxSZEZI2D68a2_TA9q3du8qwQo0FGbhyTMnqwEIEHL8hyhd9QCP03m9ZFqZF6vXiMUKcP1QW5LY60jPbyGxCaOuyS2oOllUKDmXG3zQDSu-seifs40PAq-823zTaC_6d6cR5JIYe_up4O9fSA-8h3Qfkc-v72YeRoujVwMMrNFeyzHbA6jvatKlPsYe6NehrDCgG9wvS04YUfNVcLfDk9EJ_sA3bbpYNjtwpY5Nv5m1v3OOzSiRbfQCgpMyJHHy7DPmw-zeAaI-5u7ONWsCa8lNFl7EZ6cGGA8efwHbxQcU_dKhNiwXiO9Q5U8K-cn8y6ldXlN21wNYXESNZM2Gr3i_QSdCCCx6X1kTPq9J=w1214-h911-s-no-gm?authuser=0
 description: "In order to follow the objective to design and construct a mini-golf course obstacle, a loop-de-loop was designed in order to follow the criteria that was laid out in the project, including the placement of a strip of LED lights. This was followed by the calculations relating to the resistance in an LED circuit and the presentation of the project's final reportings."
 ---
-
-# EGR 100: Loop-de-Loop - Mini Golf Course Obstacle
-
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
-
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
-
-<p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
