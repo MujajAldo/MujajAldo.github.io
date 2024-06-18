@@ -1,7 +1,7 @@
 ---
 name: "EGR 100: MiFitz - MIT App Inventor"
 tools: [EGR 100, MIT App Inventor]
-image: /home/mujajald/MujajAldoWebsiteRepo/MujajAldo.github.io/_projects/SurveyBanner.png
+image: _projects/SurveyBanner.png
 description: "Developed through MIT App Inventor, MiFitz consists of various interfaces which help users to successfully select and save new outfits in a fashion similar to a catalog. The app provides various options for user input so that the user can customize their in-app closets as they deem fit."
 ---
 
